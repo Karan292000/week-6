@@ -1,6 +1,5 @@
-# Find The Most Common Words Assignment 
-
- I have Used callback functions to filter, sort and map arrays and objects in JavaScript
+# FINDING MAXIMUM USED WORDS
+ I have Used callback functions to filter, sort and map arrays and objects in JavaScript
  I have Used string manipulation functions.
  In this project, I have started with a given string that contains a number of words. 
  Then, define the number of times each word appears in the given text.
